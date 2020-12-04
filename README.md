@@ -5,6 +5,13 @@ Ici tu peux trouver tout les tutoriels vidéos ou écrits sur le logiciel Spark 
 
 Libre à toi d'ajouter des ressouces ! :bowtie:
 
+<a href="https://www.facebook.com/groups/2438866923069061/">
+  
+  <img src="https://github.com/RobbieConceptuel/Spark-AR-Francophone/blob/main/Spark-AR-Francophone.png" width="100">
+  </a>
+  
+[Rejoins le groupe !](https://www.facebook.com/groups/2438866923069061/)
+
 ## Index
 
 - [Tutoriels écrits](#tutoriels-écrits)
@@ -166,5 +173,6 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 - [Spark AR Studio Tutoriel - Patch Editor : Comment avoir 5 Options de Couleurs ?](https://vimeo.com/382343561)
 
 ## [Rejoins Spark AR Francophone](https://www.facebook.com/groups/2438866923069061/)
+
 
 *écris avec :sparkling_heart: par Robbie Conceptuel - 2020*
