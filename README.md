@@ -1,5 +1,10 @@
 # Spark AR Francophone
 
+Bienvenue dans le repository du groupe Spark AR Francophone .
+Ici tu peux trouver tout les tutoriels vidéos ou écrits sur le logiciel Spark AR Studio.
+
+Libre à toi d'ajouter des ressouces ! :bowtie:
+
 ## Index
 
 - [Tutoriels écrits](#tutoriels-écrits)
@@ -16,6 +21,9 @@
 - [Spark AR - Audio Visualizer - Tutoriel en Français](https://github.com/RobbieConceptuel/spark-ar-tutorial-audio-visualizer-french)
 
 ## Vidéos
+
+Voici la liste de toutes les vidéos tutoriels sur Spark AR Studio.
+Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 
 ### Youtube
 
@@ -130,5 +138,33 @@
 ### Vimeo
 
 - [Débutant sur Spark AR Studio - Tutoriel en Français : Comment faire un Filtre Instagram ?](https://vimeo.com/372511440)
+
+- [Spark AR Studio Tutoriel - Comment créer une Lumière ?](https://vimeo.com/382343938)
+
+- [Spark AR Studio Tutoriel en Français - Segmentation : Comment changer le fond ?](https://vimeo.com/382347080)
+
+- [Débutant sur Spark AR Studio - Tutoriel en Français : Comment publier un Filtre ?](https://vimeo.com/407439278)
+
+- [Spark AR Studio Tutoriel en Français : Comment faire de l'or ?](https://vimeo.com/382346699)
+
+- [Spark AR Studio Tutoriel en Français - Comment régler le problème des Layers ?](https://vimeo.com/382344156)
+
+- [Débutant sur Spark AR Studio - Tutoriel en Français : Comment télécharger les Face Assets ?](https://vimeo.com/382351797)
+
+- [Spark AR Studio Tutoriel - Comment créer une Image Normal Map ? en Français](https://vimeo.com/386994737)
+
+- [Comment ajouter une interaction dans un filtre Instagram ? - Spark AR Studio](https://vimeo.com/409574060)
+
+- [Spark AR Studio Tutoriel Video - Comment créer une Animation 2D ? en Français](https://vimeo.com/387636381)
+
+- [Spark AR Studio Tutoriel en Français - Patch Editor : Comment changer la voix ?](https://vimeo.com/372513425)
+
+- [Spark AR Studio Tutoriel - Patch Editor : Comment faire une rotation ?](https://vimeo.com/382701744)
+
+- [Media Gallery et Gallery Texture - Spark AR Studio Tutoriel en Français](https://vimeo.com/421960697)
+
+- [Spark AR Studio Tutoriel - Patch Editor : Comment avoir 5 Options de Couleurs ?](https://vimeo.com/382343561)
+
+## [Rejoins Spark AR Francophone](https://www.facebook.com/groups/2438866923069061/)
 
 *écris avec :sparkling_heart: par Robbie Conceptuel - 2020*
