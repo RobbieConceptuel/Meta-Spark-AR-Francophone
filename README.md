@@ -34,6 +34,8 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 
 ### Youtube
 
+## :memo: [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PL8TpfiR7qnhHCs7m4Ae5QuqfUD3Fg28-u)
+
 - [Débutant sur Spark AR Studio - Tutoriel en Français : Comment faire un Filtre Instagram ?](https://youtu.be/ED9STH52g0I)
 
 - [SPARK AR TUTORIEL - Crée ton premier filtre Instagram!](https://youtu.be/pWj_oiFfNZM)
@@ -139,6 +141,16 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 - [FILTRE NEONS ANIMÉS - SPARK AR TUTORIAL](https://youtu.be/IHm71fq1tZ8)
 
 - [COMMENT JE FAIS UN FILTRE INSTAGRAM + TUTO (tache de rousseur et peau lisse)](https://youtu.be/AnEY5baXFQI)
+
+- [TUTO SPARK AR FR : Couleur des yeux 2020](https://youtu.be/gSlaPl9ixgo)
+
+- [COMMENT POSTER UN FILTRE SUR INSTAGRAM EN 2020](https://youtu.be/aOE2qpUAwew)
+
+- [faire un filtre instagram](https://youtu.be/9FQTl7fk38I)
+
+- [COMMENT J'AI CRÉÉ MON FILTRE INSTAGRAM DISNEY !!](https://youtu.be/cEWWraL7yPU)
+
+- [Comment créer un filtre Instagram ?](https://youtu.be/8_NKPtXiBmQ)
 
 
 
