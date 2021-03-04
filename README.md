@@ -5,12 +5,12 @@ Ici tu peux trouver tout les tutoriels vidéos ou écrits sur le logiciel Spark 
 
 Libre à toi d'ajouter des ressouces ! :bowtie:
 
-<a href="https://www.facebook.com/groups/2438866923069061/">
+<a href="https://www.facebook.com/groups/sparkarfr/">
   
   <img src="https://github.com/RobbieConceptuel/Spark-AR-Francophone/blob/main/Spark-AR-Francophone.png" width="100">
   </a>
   
-[Rejoins le groupe !](https://www.facebook.com/groups/2438866923069061/)
+[Rejoins le groupe !](https://www.facebook.com/groups/sparkarfr/)
 
 ## Index
 
