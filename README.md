@@ -172,7 +172,7 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 
 - [Spark AR Studio Tutoriel - Patch Editor : Comment avoir 5 Options de Couleurs ?](https://vimeo.com/382343561)
 
-## [Rejoins Spark AR Francophone](https://www.facebook.com/groups/2438866923069061/)
+## [Rejoins Spark AR Francophone](https://www.facebook.com/groups/sparkarfr/)
 
 
-*écris avec :sparkling_heart: par Robbie Conceptuel - 2020*
+*mis à jour avec :sparkling_heart: par Robbie Conceptuel - 2021*
