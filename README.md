@@ -3,7 +3,7 @@
 Bienvenue dans le repository du groupe Spark AR Francophone .
 Ici tu peux trouver tout les tutoriels vidéos ou écrits sur le logiciel Spark AR Studio.
 
-Libre à toi d'ajouter des ressouces ! :bowtie:
+Libre à toi d'ajouter des ressources ! :bowtie:
 
 <a href="https://www.facebook.com/groups/sparkarfr/">
   
