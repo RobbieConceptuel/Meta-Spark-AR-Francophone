@@ -7,7 +7,7 @@ Libre à toi d'ajouter des ressources ! :bowtie:
 
 <a href="https://www.facebook.com/groups/sparkarfr/">
   
-  <img src="https://github.com/RobbieConceptuel/Spark-AR-Francophone/blob/main/Spark-AR-Francophone.png" width="100">
+  <img src="https://github.com/RobbieConceptuel/Spark-AR-Francophone/blob/main/Spark-AR-Francophone.png" width="160">
   </a>
   
 [Rejoins le groupe !](https://www.facebook.com/groups/sparkarfr/)
