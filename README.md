@@ -152,6 +152,14 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 
 - [Comment créer un filtre Instagram ?](https://youtu.be/8_NKPtXiBmQ)
 
+- [CRÉE TON FILTRE Y2K ! - SPARK AR TUTORIAL](https://youtu.be/WRaBrpBTH9Q)
+
+- [Workshop SPARK AR / ANNE HOREL](https://youtu.be/OC911LSPUEA)
+
+- [JE CRÉE UN FILTRE INSTAGRAM](https://youtu.be/1w2J8SpOjF0)
+
+- [Comment réussir un filtre Insta et Facebook : Quel "X" es-tu ?](https://youtu.be/VPVQXs5rTtI)
+
 
 
 ### Vimeo
