@@ -187,4 +187,4 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 ## [Rejoins Spark AR Francophone](https://www.facebook.com/groups/sparkarfr/)
 
 
-*mis à jour avec :sparkling_heart: par Robbie Conceptuel - 2021*
+*mis à jour avec :sparkling_heart: par Robbie Conceptuel - 2022*
