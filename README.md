@@ -1,7 +1,7 @@
 # Meta Spark AR Francophone
 
 Bienvenue dans le repository du groupe Spark AR Francophone .
-Ici tu peux trouver tout les tutoriels vidéos ou écrits sur le logiciel Spark AR Studio.
+Ici tu peux trouver tout les tutoriels vidéos ou écrits sur le logiciel Meta Spark AR Studio.
 
 Libre à toi d'ajouter des ressources ! :bowtie:
 
