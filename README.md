@@ -197,4 +197,4 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 ## [Rejoins Spark AR Francophone](https://www.facebook.com/groups/sparkarfr/)
 
 
-*powered by [Conceptuel](https://conceptuel.ch) - 2023*
+*powered by [Conceptuel](https://conceptuel.ch) - 2024*
