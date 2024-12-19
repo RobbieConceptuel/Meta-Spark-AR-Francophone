@@ -1,16 +1,23 @@
 # Meta Spark Studio Francophone
 
-Bienvenue dans le repository du groupe Spark AR Francophone .
-Ici tu peux trouver tout les tutoriels vidéos ou écrits sur le logiciel Meta Spark AR Studio.
+**Note : À compter de janvier 2025, Meta Spark AR Studio a été officiellement arrêté par Meta Platforms Inc.**  
 
-Libre à toi d'ajouter des ressources ! :bowtie:
+Bienvenue sur le repository du groupe Spark AR Francophone.  
+Ici, tu peux trouver tous les tutoriels vidéos ou écrits sur le logiciel Meta Spark AR Studio.
 
-<a href="https://www.facebook.com/groups/sparkarfr/">
+## Qu'est-ce que Spark AR Studio ?  
+Spark AR Studio est un logiciel développé par Meta Platforms Inc. permettant de créer des expériences de réalité augmentée (AR) interactives.  
+Ce logiciel a été largement utilisé pour créer des filtres AR populaires pour Instagram, Facebook, et d'autres plateformes sociales.  
+Grâce à des outils intuitifs et une forte communauté, Spark AR a joué un rôle clé dans le développement de l'augmentisme, une tendance combinant l'art et la technologie pour enrichir notre perception du monde via des expériences numériques.
+
+### Fin de Spark AR Studio  
+En janvier 2025, Meta Platforms Inc. a décidé de mettre fin au développement et au support de Spark AR Studio, marquant ainsi la fin de cette plateforme qui a grandement contribué à l'essor de la réalité augmentée dans les réseaux sociaux.
+
+### Contribuer  
+Libre à toi d'ajouter des ressources ou de partager des connaissances sur l'augmentisme et l'AR ! :bowtie:  
+
   
   <img src="https://github.com/RobbieConceptuel/Spark-AR-Francophone/blob/main/Spark-AR-Francophone.png" width="160">
-  </a>
-  
-[Rejoins le groupe !](https://www.facebook.com/groups/sparkarfr/)
 
 ## Index
 
@@ -194,7 +201,13 @@ Elle contient les vidéos [Youtube](#youtube) et [Vimeo](#vimeo)
 
 - [Spark AR Studio Tutoriel - Patch Editor : Comment avoir 5 Options de Couleurs ?](https://vimeo.com/382343561)
 
-## [Rejoins Spark AR Francophone](https://www.facebook.com/groups/sparkarfr/)
+---
+
+Un immense merci à toutes et tous qui ont contribué à l'aventure de Spark AR Studio.  
+Votre créativité, votre passion et vos efforts ont permis de repousser les limites de la réalité augmentée et d'enrichir l'univers de l'augmentisme.  
+Grâce à vous, Spark AR a laissé une empreinte durable dans le monde numérique et au-delà.  
+
+Merci pour tout !
 
 
 *powered by [Conceptuel](https://conceptuel.ch) - 2024*
